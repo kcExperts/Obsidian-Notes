@@ -1,0 +1,9 @@
+>[!def|*] Control and Documentation
+>Refers to the creating of a knowledge base for future projects based on lessons learned.
+
+Having a repository of past risk analysis transactions is invaluable, particularly to novice project managers. Establishing change management also requires a useful documentation system that all partners in the project can access. A good control document must identify:
+• **What**: Identify clearly the source of risk that has been uncovered.
+• **Who**: Assign a project team member direct responsibility for following this issue and maintaining ownership regarding its resolution.
+• **When**: Establish a clear time frame, including milestones if necessary, that will determine when the expected mitigation is to occur. If it is impossible to identify a completion date in advance, then identify reasonable process goals in route to the final risk reduction point.
+• Why-Pinpoint the most likely reasons for the risk; that is, identify its cause to ensure that efforts toward its minimization will correspond appropriately with the reason the risk emerged.
+• **How**: Create a detailed plan for how the risk is to be abated. What steps has the project team member charted as a method for closing this project risk window? Do they seem reasonable or far-fetched? Too expensive in terms of money or time? The strategy for risk abatement should preferably be developed as a collaborative effort among team members, includjng those with technical and administrative expertise, to ensure that the steps taken to solve the problem are technically logical and managerially possible.

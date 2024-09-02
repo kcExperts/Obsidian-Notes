@@ -1,0 +1,3 @@
+If we were to hold a charge $+q$ near an uncharged conductor, the two will attract one another. Since $E = 0$ inside a conductor, the negative charges will move towards $+q$ to kill of the new field. Doing so creates a small force of attraction between $+q$ and the electrons in the conductor. 
+
+Another cool thing is that if a conductor has a cavity where there is a charge inside, then the field inside the capacity will not be $0$. Remarkably, the field outside will only depend on the charge of the cavity and will not depend on the shape or size. 

@@ -1,0 +1,2 @@
+It is often convenient to work with decimal numbers when coding. However, the assembler also allows for [[Binary]] and [[Hexadecimal]] numbers.
+A hex representation is often identified with the prefix `0x`. The use of the *immediate addressing mode* is also crucial. 

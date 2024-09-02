@@ -1,6 +1,10 @@
 # The Snake Game
 This folder contains code for a snake game clone made using raylib.
 
+Required files
++ raylib.h
+
+
 V1
 + Created basic snake game. Bugs exist
 

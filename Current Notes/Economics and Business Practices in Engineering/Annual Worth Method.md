@@ -1,0 +1,1 @@
+This is essentially the same as the [[Present Worth Method]] except you look at the yearly worth. Hence everything is transformed into a uniform series at the MARR (an [[Annuity]]) and then are compared.

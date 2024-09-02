@@ -1,0 +1,3 @@
+When power is turned on, the cache contains no valid data. A control bit (*valid bit*) must be provided for each cache block to indicate whether the data in that block is valid. It is initialized to $0$:
+- $0$: Not hit if valid bit is $0$, even if tag match occurs.
+- $1$: Means that a block is loaded into that location. The processor fetches data from a cache block only if its valid bit is equal to $1$.

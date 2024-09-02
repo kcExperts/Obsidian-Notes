@@ -1,0 +1,1 @@
+The control unit coordinates operations on the [[Central Processing Unit]] and possible other areas. It is important to note that the control unit does not always have sole control on the entire computer. 

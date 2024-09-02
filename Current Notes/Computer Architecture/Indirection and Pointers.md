@@ -1,0 +1,3 @@
+In many programs, it is often useful to have a way to point to a location in memory, whether it be for lists or [[Subroutines]]. This is referred to as *indirection* as we access memory indirectly. The [[Stack Pointer]] is an especially powerful tool required for subroutines.
+
+It is important when incrementing a counter to increment it to the next **word**. Thus, using the *immediate mode* described in [[Implementation of Constants]] to add $4$ to the pointer will increment it to the next word which will hold the next value.  

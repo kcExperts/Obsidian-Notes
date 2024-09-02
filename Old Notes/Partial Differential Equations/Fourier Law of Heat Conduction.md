@@ -1,0 +1,2 @@
+
+Under “normal” conditions, for many solid materials, the heat flux $q$ is a linear function of the temperature gradient: $$q = - \kappa \nabla u$$where $u$ is the absolute temperature and $\kappa > 0$ is the thermal conductivity which depends on the properties of the material. The negative reflects the tendency of heat to flow from hotter to cooler regions.

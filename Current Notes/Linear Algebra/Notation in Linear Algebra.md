@@ -1,0 +1,19 @@
+Here we will list special notation that is used in linear algebra:
+- $\mathbb{F}^n = \prod^n \mathbb{F}$. (Or in other words $\mathbb{F}^n = \mathbb{F} \times \dots \times \mathbb{F}$ $n$ times)
+- $\mathbb{R}^\mathbb{R}$ is the set of all functions from $\mathbb{R}$ to $\mathbb{R}$
+- $\mathbb{R}^\infty = \mathbb{R}^{\mathbb{Z}_{\ge 1}}$ is the set of functions from $\mathbb{Z}_{\ge 1}$ to $\mathbb{R}$. Note that having $f: \mathbb{Z}_{\ge 1} \rightarrow \mathbb{F}$ is just a sequence so that the notation $(f(n))_{n \ge 1}$ makes sense. Similar definitions hold for $\mathbb{F}$.
+- $\mathcal P(\mathbb{F})$ is the set of polynomials with coefficients in $\mathbb{F}$
+- $\mathcal P(\mathbb{F})_{\le n} = \{p \in \mathcal P(\mathbb{F}) : \text{deg}(p) \le n\}$
+- $\# S = |S|$ is the cardinality of the set $S$.
+- $\text{dim}_{\mathbb{F}}(V)$ is the dimension of $V$over $\mathbb{F}$. Denoted $\text{dim}(V)$. We only make the distinction when explicitly working in other fields as $\text{dim}_{\mathbb C}(\mathbb C) \ne \text{dim}_{\mathbb{R}}(\mathbb C)$.
+- $\mathcal{L}(V,W)$ is the set of all linear maps from $V$ to $W$
+- $\mathcal{L}(V) = \mathcal{L}(V,V)$
+- $C(\mathbb{R},\mathbb{R})$ is the set of all continuous functions from $\mathbb{R}$ to $\mathbb{R}$.
+- $\text{null}(T) = \text{ker}(T) = \{v : Tv = 0\}$
+- $\mathbb{F} v = \text{span}(v)$ (with coefficients in $\mathbb{F}$)
+- $\cong$ is used to denote an isomorphism between two vector spaces.
+- $f|^{f(X)}$ is the restriction of the codomain on $f: X \rightarrow Y$. In other words, a restriction of $f$ is the function $g: X \rightarrow f(X)$. Thus $f|^{f(X)} = g$.
+- $V/U$ (quotient space) is the set of all translates (cosets) of $U$.
+- $\hat T$ is the matrix corresponding to $T$ obtained from the isomorphisms gotten by fixing bases. Thus $\hat T(x) = (\phi \circ T \circ \theta^{-1})(x)$. Where they are all linear maps.
+- $V^{'}$ is the dual space of $V$, thus it is the set of a linear transformations $\mathcal{L}(V,\mathbb{F})$. Linear functions in $\mathcal{L}(V,\mathbb{F})$ are called linear functional.
+- $[w]$ is the a translate (coset). Where $[w] = w +U =\{w+u: u \in U\}$

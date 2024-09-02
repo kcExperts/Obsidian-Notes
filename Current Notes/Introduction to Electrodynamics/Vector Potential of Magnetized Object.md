@@ -1,0 +1,2 @@
+Recall that the [[Vector Potential]] of a single magnetic dipole is: $$A(r) = \frac{\mu_0}{4\pi} \frac{m \times \hat \tau}{\tau^2}$$
+The vector potential of a magnetized object, where each element of volume is carrying a magnetic dipole $m = M \: dv$ is: $$A(r) = \frac{\mu_0}{4\pi} \int \frac{M(r') \times \hat \tau}{\tau^2} \: dv$$

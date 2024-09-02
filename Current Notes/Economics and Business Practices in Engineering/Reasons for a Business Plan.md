@@ -1,0 +1,4 @@
+Writing a business plan is the last activity completed in the entrepreneurial process. The plan must be substantive enough and have sufficient details about the merits of the new venture in order to convince the reader that the new business is exciting and should receive support. The actual details are accumulated in the feasibility analysis. There are two main reasons for writing a business plan:
+1. **Internal Reason**: Writing a plan forces a firm’s founders to systematically think through each aspect of their new venture. 
+2. **External Reason**: Communicates the merits of a new venture to outsiders, such as investors and bankers.
+A business plan is typically a 25 to 35 page document containing all the relevant information that is needed. It must be long enough to provide sufficient information yet short enough to maintain reader interest. Hence **concision is key**. See [[Red Flags in a Business Plan]].
